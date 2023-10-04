@@ -1,4 +1,4 @@
 easyocr
 customtkinter
-pillow==9.5.0
+pillow
 pyttsx3
